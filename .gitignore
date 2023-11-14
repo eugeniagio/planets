@@ -1,2 +1,3 @@
 *.csv
-results/
+logs/
+!log_01
