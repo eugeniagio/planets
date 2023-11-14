@@ -1,3 +1,3 @@
 *.csv
 logs/
-!log_01
+!log_01.csv
